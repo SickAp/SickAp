@@ -24,9 +24,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<div>
-<a href="https://github.com/SickAp">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SickAp-aqui&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SickAp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+## 📊 GitHub Stats:
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SickAp-2005)](https://github.com/SickAp-2005/github-readme-stats-fast)
+
