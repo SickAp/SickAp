@@ -15,8 +15,7 @@
   <a href="https://instagram.com/ameliaa_siqueira">
     <img src="https://img.shields.io/badge/Instagram-@ameliaa_siqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-  </a>
+  
 
  
 
