@@ -25,6 +25,6 @@
 ---
 
 ## 📊 GitHub Stats:
-![SickAp stats!](github-readme-stats.vercel.app)
+[![Amélia Aparecida's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SickAp)](https://github.com/SickAp/github-readme-stats-fast)
 
 
