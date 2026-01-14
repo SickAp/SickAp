@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi  👋🏾, Im Amélia Aparecida
 
-<!--
-**SickAp/SickAp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Computer Engineer Student | Python**  
+🇧🇷 Brazil
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/herbertcarnaubSickAp">
+    <img src="https://img.shields.io/badge/GitHub-SickAp-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/ameliaa_siqueira">
+    <img src="https://img.shields.io/badge/Instagram-@ameliaa_siqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+---
+
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SickAp&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SickAp&layout=compact&theme=tokyonight" />
+</p>
+---
