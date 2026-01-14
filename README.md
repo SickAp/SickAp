@@ -25,6 +25,6 @@
 ---
 
 ## 📊 GitHub Stats:
-![SickAp's GitHub stats](https://github-readme-stats.vercel.app/api?username=SickAp&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)
+![SickAp stats!](github-readme-stats.vercel.app&theme=tokyonight)
 
 
