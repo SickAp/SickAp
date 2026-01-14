@@ -25,6 +25,6 @@
 ---
 
 ## 📊 GitHub Stats:
-![SickAp stats!](github-readme-stats.vercel.app&theme=tokyonight)
+![SickAp stats!](github-readme-stats.vercel.app&theme=dark)
 
 
