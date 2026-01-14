@@ -18,16 +18,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 📖 Learning:
 
 ![Python](https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python)
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SickAp&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SickAp&layout=compact&theme=tokyonight" />
-</p>
+<div>
+<a href="https://github.com/SickAp">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SickAp-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SickAp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 ---
