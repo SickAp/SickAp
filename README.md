@@ -15,6 +15,11 @@
   <a href="https://instagram.com/ameliaa_siqueira">
     <img src="https://img.shields.io/badge/Instagram-@ameliaa_siqueira-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+   <a href="https://LinkedIn.com/Amélia Aparecida">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" />
+  </a>
+          
+ 
 
 ---
 
