@@ -25,5 +25,5 @@
 ---
 
 ## 📊 GitHub Stats:
-[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SickAp-2005)](https://github.com/SickAp-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=SickAp)](https://github.com/SickAp-2005/github-readme-stats-fast)
 
