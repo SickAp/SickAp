@@ -24,6 +24,7 @@
 ## 📖 Learning:
 
 ![Python](https://img.shields.io/badge/Python-F24E1E?style=for-the-badge&logo=python)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white )
 
 ---
 
