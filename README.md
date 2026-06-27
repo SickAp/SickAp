@@ -1,6 +1,6 @@
 # Hi  👋🏾, Im Amélia Aparecida
 
-🚀 **Computer Engineer Student | Python**  
+🚀 **Computer Engineer Student | Python | PowerBI | Excel | C++ | C#**  
 🇧🇷 Brazil
 
 
